@@ -21,4 +21,4 @@
 
 # 7 Linkedin Post
 > Submit the LinkedIn post URL
-> [LinkedIn post URL]
+> [LinkedIn post URL](https://www.linkedin.com/posts/sandhya-verma-553101292_medicalrobotics-aiinhealthcare-healthcareinnovation-activity-7436085504116146176-BG5_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbZtc8BNdu4pgck83Du1kixdYDQ16HjRE4)
